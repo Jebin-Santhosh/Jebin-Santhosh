@@ -1,27 +1,27 @@
-<h1 align="center">Hello Viewer 👋, I'm Jebin Santhosh</h1>
-<h3 align="center">A professional developer from India</h3>
+<h1 align="center">Welcome🙏🏻, I'm Jebin Santhosh</h1>
+<h3 align="center">I am a professional developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbn-development&label=Profile%20views&color=0e75b6&style=flat" alt="jbn-development" /> </p>
 
-- 🔭 I’m currently working on [FiveM](https)
+- 🔭 I’m currently working on [projects](https)
 
-- 🌱 I’m currently learning **Java, C++, Python**
+- 🌱 I’m currently learning **linux**
 
-- 👯 I’m looking to collaborate on [SRM](https)
+- 👯 I’m looking to collaborate on [Google](https)
 
-- 🤝 I’m looking for help with [SRM](https)
+- 🤝 I’m looking for help with [FiveM Developing](https)
 
 - 👨‍💻 All of my projects are available at [https](https)
 
-- 📝 I regularly write articles on [development](development)
+- 📝 I regularly write articles on [latest technology](development)
 
-- 💬 Ask me about **lua**
+- 💬 Ask me about **codings, developing, technical issues**
 
 - 📫 How to reach me **jbndevelopment22@gmail.com**
 
 - 📄 Know about my experiences [https](https)
 
-- ⚡ Fun fact **I jolly type & I enjoy with people**
+- ⚡ Fun fact **I am very jolly type! love to make new friends with different types of people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
