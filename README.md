@@ -46,6 +46,6 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jebin-santhosh&show_icons=true&locale=en&layout=compact" alt="jbn-technology" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jebin-santhosh&show_icons=true&locale=en" alt="jbn-technology" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jebin-santhosh&show_icons=true&locale=en" alt="jebin-santhosh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jebin-santhosh&" alt="jbn-technology" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jebin-santhosh&" alt="jebin-santhosh" /></p>
