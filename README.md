@@ -1,7 +1,7 @@
 <h1 align="center">Welcome🙏🏻 I'm Jebin Santhosh</h1>
 <h3 align="center">A full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jbn-technology&label=Profile%20views&color=0e75b6&style=flat" alt="jebin-santhosh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jebin-santhosh&label=Profile%20views&color=0e75b6&style=flat" alt="jebin-santhosh" /> </p>
 
 - 🔭 I’m currently working on [FiveM](https)
 
