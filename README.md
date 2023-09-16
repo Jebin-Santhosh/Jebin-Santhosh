@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jebin-santhosh&label=Profile%20views&color=0e75b6&style=flat" alt="jebin-santhosh" /> </p>
 
-- 🔭 I’m currently working on [FiveM](https)
+- 🔭 I’m currently working on [Coding](https)
 
 - 🌱 I’m currently learning **advance coding**
 
-- 👯 I’m looking to collaborate on [Google](https)
+- 👯 I’m looking to collaborate on [Companies](https)
 
 - 🤝 I’m looking for help with [Future Developing](https)
 
