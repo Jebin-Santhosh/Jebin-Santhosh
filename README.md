@@ -1,7 +1,7 @@
 <h1 align="center">Welcome🙏🏻 I'm Jebin Santhosh</h1>
 <h3 align="center">A full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jbn-technology&label=Profile%20views&color=0e75b6&style=flat" alt="jbn-technology" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jbn-technology&label=Profile%20views&color=0e75b6&style=flat" alt="jebin-santhosh" /> </p>
 
 - 🔭 I’m currently working on [FiveM](https)
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Google](https)
 
-- 🤝 I’m looking for help with [Android App Developing](https)
+- 🤝 I’m looking for help with [Future Developing](https)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jebin-Santhosh/](https://github.com/Jebin-Santhosh/)
 
