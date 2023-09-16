@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jebin-Santhosh/](https://github.com/Jebin-Santhosh/)
 
-- 📝 I regularly write articles on [future development, latest technology](future development, latest technology)
+- 📝 I regularly write articles on **future development, latest market**
 
 - 💬 Ask me about **solutions, issues, problems, coding related**
 
