@@ -1,19 +1,17 @@
 <h1 align="center">Welcome🙏🏻 I'm Jebin Santhosh</h1>
-<h3 align="center">A full stack developer from India</h3>
+<h3 align="center">A professional developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jebin-santhosh&label=Profile%20views&color=0e75b6&style=flat" alt="jebin-santhosh" /> </p>
 
-- 🔭 I’m currently working on [Coding](https)
+- 🔭 I’m currently working on [RageMP](https://rage.mp)
 
-- 🌱 I’m currently learning **advance coding**
+- 🌱 I’m currently learning **CSS, HTML, JS**
 
-- 👯 I’m looking to collaborate on [Companies](https)
-
-- 🤝 I’m looking for help with [Future Developing](https)
-
+- 👯 I’m looking to collaborate on [Rockstar Games](https://www.rockstargames.com)
+  
 - 👨‍💻 All of my projects are available at [https://github.com/Jebin-Santhosh/](https://github.com/Jebin-Santhosh/)
 
-- 📝 I regularly write articles on **future development, latest market**
+- 📝 I regularly write articles on **future**
 
 - 💬 Ask me about **solutions, issues, problems, coding related**
 
