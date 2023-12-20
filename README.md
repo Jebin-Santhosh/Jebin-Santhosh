@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://github.com/Jebin-Santhosh/](https://github.com/Jebin-Santhosh/)
 
-- ⚡ Fun fact **Myself love to interact with different types of people & love to keep my environment happy**
+- ⚡ Fun fact **I am Myself love to interact with different types of people & love to keep my environment happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
