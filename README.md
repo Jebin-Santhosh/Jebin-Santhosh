@@ -3,23 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jebin-santhosh&label=Profile%20views&color=0e75b6&style=flat" alt="jebin-santhosh" /> </p>
 
-- 🔭 I’m currently working on [IoT Projects]
+- 🔭 I’m currently working on **IoT Projects**
 
 - 🌱 I’m currently learning **CSS, HTML, JS**
 
-- 👯 I’m looking to collaborate on [IoT]
+- 👯 I’m looking to collaborate on **IoT**
   
 - 👨‍💻 All of my projects are available at [https://github.com/Jebin-Santhosh/](https://github.com/Jebin-Santhosh/)
 
-- 📝 I regularly write articles on **future**
+- 📝 I regularly write articles on **Future AI**
 
-- 💬 Ask me about **solutions, issues, problems, coding related**
+- 💬 Ask me about **problem solving, coding related doubts**
 
 - 📫 How to reach me **jbndevelopment22@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Jebin-Santhosh/](https://github.com/Jebin-Santhosh/)
 
-- ⚡ Fun fact **I am Myself love to interact with different types of people & love to keep my environment happy**
+- ⚡ Fun fact **I love to interact with different types of people & love to keep my environment happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
