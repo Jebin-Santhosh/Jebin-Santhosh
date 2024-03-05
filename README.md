@@ -1,13 +1,13 @@
 <h1 align="center">Welcome🙏🏻 I'm Jebin Santhosh</h1>
-<h3 align="center">A developer from India</h3>
+<h3 align="center">I am From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jebin-santhosh&label=Profile%20views&color=0e75b6&style=flat" alt="jebin-santhosh" /> </p>
 
-- 🔭 I’m currently working on [RageMP](https://rage.mp)
+- 🔭 I’m currently working on [IoT Projects]
 
 - 🌱 I’m currently learning **CSS, HTML, JS**
 
-- 👯 I’m looking to collaborate on [Rockstar Games](https://www.rockstargames.com)
+- 👯 I’m looking to collaborate on [IoT]
   
 - 👨‍💻 All of my projects are available at [https://github.com/Jebin-Santhosh/](https://github.com/Jebin-Santhosh/)
 
