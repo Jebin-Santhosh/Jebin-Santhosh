@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jebin-santhosh&label=Profile%20views&color=0e75b6&style=flat" alt="jebin-santhosh" /> </p>
 
-- 🔭 I’m currently working on **IoT Projects**
+- 🔭 I’m currently working on **Placements**
 
-- 🌱 I’m currently learning **CSS, HTML, JS**
+- 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **IoT**
+- 👯 I’m looking to collaborate on **Job Opportunities**
   
 - 👨‍💻 All of my projects are available at [https://github.com/Jebin-Santhosh/](https://github.com/Jebin-Santhosh/)
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **problem solving, coding related doubts**
 
-- 📫 How to reach me **jbndevelopment22@gmail.com**
+- 📫 How to reach me **jbnsanthosh@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Jebin-Santhosh/](https://github.com/Jebin-Santhosh/)
 
